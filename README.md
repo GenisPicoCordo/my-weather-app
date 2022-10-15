@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# My Weather App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is to learn in a simple way how to make a PWA using a weather API.
+
+Feel free to download it to your mobile and use it if you like it.
 
 ## Available Scripts
 
